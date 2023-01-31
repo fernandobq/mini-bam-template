@@ -6,7 +6,7 @@ A Strapi template to create Strapi projects pre-configured for bam apps.
 
 ```bash
 # Using Yarn
-yarn create strapi-app my-app-name --template https://github.com/fernandobq/bam-template-strapi
+yarn create strapi-app my-app-name --template mini-bam-template
 # Or using NPM
-npx create-strapi-app my-app-name --template https://github.com/fernandobq/bam-template-strapi
+npx create-strapi-app my-app-name --template mini-bam-template
 ```
