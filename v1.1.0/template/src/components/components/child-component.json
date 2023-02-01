@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_components_child_components",
+  "info": {
+    "displayName": "Child Component"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

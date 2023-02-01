@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_components_diana_components",
+  "info": {
+    "displayName": "Diana Component"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
